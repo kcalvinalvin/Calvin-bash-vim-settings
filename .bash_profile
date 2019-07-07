@@ -11,8 +11,12 @@ export PATH="$HOME/.cargo/bin:$PATH"
 
 export LSCOLORS="EHfxcxdxBxegecabagacad" 
 
+alias l='ls -GH'
 alias ls='ls -GH'
 alias la='ls -a'
+alias claer='clear'
+alias clera='clear'
+alias caler='clear'
 alias fucking='sudo'
 alias googlePing='ping 8.8.8.8'
 
